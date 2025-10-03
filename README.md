@@ -1,2 +1,3 @@
 # github-demo
-Trying to learn git and github from scratch.
+This is my journey trying to learn git and github
+
